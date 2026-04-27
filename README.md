@@ -16,6 +16,15 @@
 </div>
 
 ---
+<div align="center">
+  
+## Try it yourself
+  
+See it in Action: https://my-simple-note.web.app
+  
+</div>
+
+---
 
 ##  Screenshots
 
