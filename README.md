@@ -29,10 +29,8 @@ See it in Action: https://my-simple-note.web.app
 ##  Screenshots
 
 <div align="center">
-<img width="1440" height="900" alt="Screenshot 2026-04-26 at 12 02 59 PM (2)" src="https://github.com/user-attachments/assets/4fe6ab17-ee7c-41d2-8c29-86423d467dd1" />
-<img width="1440" height="900" alt="Screenshot 2026-04-26 at 12 02 26 PM (2)" src="https://github.com/user-attachments/assets/3017b8fc-bb8b-4f32-8874-76bdcc82b4fc" />
-<img width="388" height="747" alt="Screenshot 2026-04-26 at 7 04 03 PM" src="https://github.com/user-attachments/assets/26ec3680-a916-4843-b507-931d1087f584" />
-<img width="1312" height="1118" alt="Screenshot 2026-04-26 at 7 03 54 PM" src="https://github.com/user-attachments/assets/3133c245-fc75-45a4-bbf9-98a082f7902c" />
+<img width="1366" height="768" alt="simple-note-thumbnail" src="https://github.com/user-attachments/assets/57035731-cf91-4126-85bf-331efb768081" />
+
 
 
 </div>
